@@ -1,0 +1,11 @@
+node_modules
+.env
+.env.local
+*.log
+.replit
+replit.nix
+.git
+.gitignore
+server/seed.ts
+design_guidelines.md
+attached_assets
